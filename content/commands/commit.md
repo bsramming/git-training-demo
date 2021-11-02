@@ -9,6 +9,8 @@ The `commit` command is used to commit *staged* files to your *local* branch.
 
 This command is usually ran after executing the `add` command which stages your changes. However, with the right options you can actually combine the add and commit commands together. See below.
 
+You can execute the commit command multiple times to create more than one commit on your local branch.
+
 Note: this command does not impact the remote repository, only your local copy. See the push command for uploading changes to the remote branch.
 
 # Options

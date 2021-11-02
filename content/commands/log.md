@@ -1,24 +1,36 @@
 
 # Command
 
-    ```COMMAND GOES HERE```
+    log [options]
 
 # What It's Used For
 
-The `COMMAND` command will...
+The `log` command will show the commit logs.
+
+This command is actually very powerful in querying the commit history of your repository. By default, specifying no options, you will see the commit history. For each commit it will show:
+- Commit ID
+- Author - User name and email of who made the commit.
+- Date - When the commit was made.
+- Commit message
+
+The various options available enable you to change what values per commit are returned as well as query the history with specific criteria. This guide does not go into the details. If you are interested in learning more see:
+
+        git log --help
 
 # Options
 
-Below are some useful options to use with the `COMMAND` command. This is not an exhaustive list, but the ones I use most often.
+The `log` command has many options available to not only query different aspect of the commit history, but also change what information is returned. To learn more about all the options available for this command I encourage you to check out:
 
-| Option | Usage | 
-| ---- | -----|
-| ```-OPTION``` | ```OPTION DESCRIPTION``` |
+        git log --help
 
 # Examples
 
-Below are some common examples of the COMMAND command.
+Below are some common examples of the log command.
 
-- EXAMPLE SUMMARY:
+- Show the basic commit log information:
 
-        EXAMPLE COMMAND
+        git log
+
+- Show a stream-lined, graph version of the log history. This is how I primarily use the log command. I even created an alias for this in my git config. See the `config` command for more details. Very useful to see the commit history at a glance.
+
+        git log --graph --oneline --all --decorate
