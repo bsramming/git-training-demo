@@ -1,5 +1,5 @@
 
-# Do you git it? A primer on git.
+# Do you git it? A Primer on Git Version Control System.
 
 What better way to learn git then with a git repo containing all the training material?
 
