@@ -14,7 +14,7 @@ Below are some useful options to use with the `add` command. This is not an exha
 | Option | Usage | 
 | ---- | -----|
 | -A | Add all modified and untracked files to staging. |
-| -n | This does a dry-run. No files are actually added, but will show what files would be added.
+| -n | This does a dry-run. No files are actually added, but will show what files would be added. |
 
 # Examples
 
