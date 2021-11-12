@@ -5,7 +5,7 @@
 
 # What It's Used For
 
-The `add` command will...
+The `add` command will add the specified files to staging. This is done before running the *commit* command.
 
 # Options
 
@@ -23,6 +23,10 @@ Below are some common examples of the add command.
 - To add the *add.md* file in the *commands* directory to staging:
 
         git add commands/add.md
+
+- To add all modified, and untracked files to staging:
+
+        git add -A
 
 - To see what files would be added to staging without actually staging them - in other words - a dry-run. This is handy when you want to make sure your .gitignore file is accurate.
 

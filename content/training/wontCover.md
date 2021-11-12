@@ -10,6 +10,7 @@ Here are a few things we won't cover:
 - Repository creation. Typically handled through the git provider easily.
 - Branching models. Will mention a very basic idea but this is more team-specific discussion.
 - Integration tools. Git IDE integration, GitHub Desktop, etc. There's LOTS of tools/plugins built on top of Git.
+- Pull requests, merging, and reviews.
 
 ***
 [Back to Agenda](./agenda.md)
