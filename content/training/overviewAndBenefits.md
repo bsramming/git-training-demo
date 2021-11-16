@@ -2,6 +2,8 @@
 # Overview and Benefits
 
 > Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+>
+> Git is relatively new software with it's initial release made in 2005. Since then it has become the most widely used source-code management tool. 
 > - https://en.wikipedia.org/wiki/Git
 
 ## Benefits
