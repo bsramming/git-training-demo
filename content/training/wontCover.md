@@ -13,4 +13,4 @@ Here are a few things we won't cover:
 - Pull requests, merging, and reviews.
 
 ***
-[Back to Agenda](./agenda.md)
+[Back to Training Overview](./trainingOverview.md)

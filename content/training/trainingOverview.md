@@ -14,7 +14,6 @@ All the training material and content can be found on a git repo! (Are you surpr
 
 https://github.com/bsramming/git-training-demo
 
-### [Training Scenario](./trainingScenario.md)
 ### [What We Wont Cover](./wontCover.md)
 
 ***
