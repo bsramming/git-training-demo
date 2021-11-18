@@ -6,5 +6,6 @@
 - ### Introduction
 - ### [Do You Know Git?](./DoYouKnowGit.md)
 - ### [What to Expect From This Training](./trainingOverview.md)
+- ### [What We Wont Cover](./wontCover.md)
 - ### [Brief Overview and Benefits](./overviewAndBenefits.md)
 - ### [Training Scenario](./trainingScenario.md)
