@@ -13,13 +13,10 @@ This command is actually very powerful in querying the commit history of your re
 - Date - When the commit was made.
 - Commit message
 
-The various options available enable you to change what values per commit are returned as well as query the history with specific criteria. This guide does not go into the details. If you are interested in learning more see:
-
-        git log --help
 
 # Options
 
-The `log` command has many options available to not only query different aspect of the commit history, but also change what information is returned. To learn more about all the options available for this command I encourage you to check out:
+The `log` command has many options available to not only query different aspect of the commit history, but also change what information is returned. This guide does not go into all of those details. To learn more about all the options available for this command I encourage you to check out:
 
         git log --help
 
