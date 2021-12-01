@@ -27,3 +27,6 @@ Below are some common examples of the `branch` command.
 - Display both local and remote branches for the repo:
 
         git branch -a
+
+***
+[Back to Table of Contents](../TableOfContents.md)

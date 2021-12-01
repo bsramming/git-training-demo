@@ -30,3 +30,6 @@ Below are some common examples of the push command.
 - Push commits to a pre-existing remote branch:
 
         git push
+
+***
+[Back to Table of Contents](../TableOfContents.md)

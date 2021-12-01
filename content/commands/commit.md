@@ -38,3 +38,6 @@ Below are some common examples of the commit command.
 - Add the modified files to staging and commit them to the branch with the specified commit message:
 
         git commit -am "Adding feature B to the code"
+
+***
+[Back to Table of Contents](../TableOfContents.md)

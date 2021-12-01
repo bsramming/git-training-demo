@@ -33,3 +33,5 @@ Below are some common examples of the add command.
         git add -A -n
     
 
+***
+[Back to Table of Contents](../TableOfContents.md)

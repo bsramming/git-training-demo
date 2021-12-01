@@ -31,3 +31,6 @@ Below are some common examples of the log command.
 - Show a stream-lined, graph version of the log history. This is how I primarily use the log command. I even created an alias for this in my git config. See the `config` command for more details. Very useful to see the commit history at a glance.
 
         git log --graph --oneline --all --decorate
+
+***
+[Back to Table of Contents](../TableOfContents.md)

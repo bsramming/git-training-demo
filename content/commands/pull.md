@@ -21,3 +21,6 @@ Below are some common examples of the pull command.
 - Pull the latest changes into your local copy:
 
         git pull
+
+***
+[Back to Table of Contents](../TableOfContents.md)

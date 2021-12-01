@@ -27,4 +27,5 @@ Below are some common examples of the diff command.
 
         git diff content/commands/diff.md
 
-
+***
+[Back to Table of Contents](../TableOfContents.md)
