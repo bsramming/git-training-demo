@@ -29,3 +29,6 @@ Below are some common examples of the add command.
 - I was experimenting, but the changes ultimately didn't work. Let me reset back to the changeset before starting these changes and try a different approach:
 
         git reset --hard
+
+***
+[Back to Table of Contents](../TableOfContents.md)

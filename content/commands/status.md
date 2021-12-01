@@ -28,3 +28,6 @@ Below are some common examples of the status command.
 - Show the current repo file status in short format:
 
         git status -s
+
+***
+[Back to Table of Contents](../TableOfContents.md)

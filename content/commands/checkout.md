@@ -38,3 +38,6 @@ Below are some common examples of the `checkout` command.
 - Made some changes to the checkout.md file that I no longer need. To undo those changes:
 
         git checkout -- content/commands/checkout.md
+
+***
+[Back to Table of Contents](../TableOfContents.md)

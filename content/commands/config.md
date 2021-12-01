@@ -46,3 +46,6 @@ Below are some common examples of the COMMAND command.
 - If I no longer what a variable set in the config, use --unset option to remove it:
 
         git config --global --unset alias.s
+
+***
+[Back to Table of Contents](../TableOfContents.md)

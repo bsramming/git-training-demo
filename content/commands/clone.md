@@ -26,3 +26,6 @@ Below is an example of the clone command.
 - Clone the given repository into a directory named 'gitTrainingDemo' to your system:
 
         git clone https://github.com/bsramming/git-training-demo.git gitTrainingDemo
+
+***
+[Back to Table of Contents](../TableOfContents.md)
