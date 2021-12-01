@@ -7,8 +7,8 @@ The best way to learn git is seeing how it is used first-hand in a practical exa
 
 ## You will learn:
 - How to use the primary git commands
-- How git integrates into your flow for the better
-- A better understanding of how git can benefit your projects
+- The general git command flow; when and why to use commands
+- A better understanding of how git can be used to improve collaboration
 
 All the training material and content can be found on a git repo! (Are you surprised?)
 
